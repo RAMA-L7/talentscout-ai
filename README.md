@@ -5,6 +5,18 @@
 TalentScout AI is an intelligent hiring assistant that reads any job description, evaluates candidates, simulates recruiter-candidate engagement, and delivers explainable hiring decisions — all running **fully offline** with no API keys required.
 
 > **Not a scoring tool. An AI Recruiter.**
+---
+
+## 📌 Submission Links
+
+| Item | Link |
+|---|---|
+| **Live Demo** | [talentscout-ai.streamlit.app](https://talentscout-ai-logucneci4dfrxsxq3ypu4.streamlit.app/) |
+| **GitHub Repo** | [github.com/rama-l7/talentscout-ai](https://github.com/rama-l7/talentscout-ai) |
+| **Demo Video** | [Watch on YouTube](https://youtu.be/7HO3e3WkMyA) |
+| **Approach Write-up** | [APPROACH.md](./APPROACH.md) |
+| **Sample I/O** | [SAMPLE_IO.md](./SAMPLE_IO.md) |
+
 
 ---
 
