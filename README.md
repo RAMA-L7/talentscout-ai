@@ -104,7 +104,7 @@ Given a JD and candidate profiles (text or PDF resumes), TalentScout AI:
 
 ### Visual Flow
 
-````mermaid
+```mermaid
 graph TD
 
 A[JD Input] --> B[JD Parser]
@@ -125,7 +125,6 @@ I --> K[Final Ranking]
 J --> K
 
 K --> L[Report + Recruiter Actions]
-```​
 ```
 
 ---
