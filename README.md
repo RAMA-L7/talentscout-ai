@@ -102,6 +102,32 @@ Given a JD and candidate profiles (text or PDF resumes), TalentScout AI:
           └──────────────────────────┘
 ```
 
+### Visual Flow
+
+````mermaid
+graph TD
+
+A[JD Input] --> B[JD Parser]
+C[Candidate Resumes] --> D[Candidate Parser]
+
+B --> E[Structured JD]
+D --> F[Structured Profiles]
+
+E --> G[Semantic Engine]
+F --> G
+
+G --> H[Scoring Engine]
+
+H --> I[Match Score]
+H --> J[Interest Score]
+
+I --> K[Final Ranking]
+J --> K
+
+K --> L[Report + Recruiter Actions]
+```​
+```
+
 ---
 
 ## 📊 Scoring Logic (Deep Dive)
