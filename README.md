@@ -230,7 +230,7 @@ Kubernetes = k8s
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/talentscout-ai.git
+git clone https://github.com/rama-l7/talentscout-ai.git
 cd talentscout-ai
 
 # Create virtual environment
